@@ -1,5 +1,5 @@
 # LINUX-BASIC-TO-ADVANCE-GUIDE
-A complete, beginner-to-advanced Linux commands guide created to help anyone learn Linux in a structured and practical way. This blog is based on a carefully organized Excel resource built from real learning experience.
+A complete, beginner-to-advanced Linux commands guide created to help anyone learn Linux in a structured and practical way. This blog is based on a carefully organized Excel resource built from real learning experience. This repository is intended to support cloud engineers, IT professionals, and infrastructure teams in building secure and reliable systems
 
 
 This repository is created to solve a common problem:  
